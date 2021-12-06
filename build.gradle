@@ -62,3 +62,4 @@ compile group: 'com.amazonaws', name: 'aws-java-sdk', version: '1.2.1'
 test {
 	useJUnitPlatform()
 }
+//
